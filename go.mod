@@ -1,6 +1,6 @@
-module github.com/plumber-cd/terraform-backend-git
+module github.com/rigrassm/terraform-backend-git
 
-go 1.13
+go 1.15
 
 require (
 	github.com/go-git/go-billy/v5 v5.0.0
