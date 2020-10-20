@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/plumber-cd/terraform-backend-git/types"
+	"github.com/rigrassm/terraform-backend-git/types"
 	"github.com/spf13/viper"
 )
 

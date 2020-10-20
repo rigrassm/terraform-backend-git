@@ -10,9 +10,9 @@ import (
 	"os"
 
 	"github.com/gorilla/handlers"
-	"github.com/plumber-cd/terraform-backend-git/backend"
-	"github.com/plumber-cd/terraform-backend-git/crypt"
-	"github.com/plumber-cd/terraform-backend-git/types"
+	"github.com/rigrassm/terraform-backend-git/backend"
+	"github.com/rigrassm/terraform-backend-git/crypt"
+	"github.com/rigrassm/terraform-backend-git/types"
 	"github.com/spf13/viper"
 )
 

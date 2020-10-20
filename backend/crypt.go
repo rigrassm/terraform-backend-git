@@ -3,7 +3,7 @@ package backend
 import (
 	"os"
 
-	"github.com/plumber-cd/terraform-backend-git/crypt"
+	"github.com/rigrassm/terraform-backend-git/crypt"
 )
 
 // getEncryptionPassphrase should check all possible config sources and return a state backend encryption key.

@@ -8,10 +8,10 @@ import (
 	"strings"
 
 	"github.com/mitchellh/go-homedir"
-	"github.com/plumber-cd/terraform-backend-git/backend"
-	"github.com/plumber-cd/terraform-backend-git/server"
-	"github.com/plumber-cd/terraform-backend-git/storages/git"
-	"github.com/plumber-cd/terraform-backend-git/types"
+	"github.com/rigrassm/terraform-backend-git/backend"
+	"github.com/rigrassm/terraform-backend-git/server"
+	"github.com/rigrassm/terraform-backend-git/storages/git"
+	"github.com/rigrassm/terraform-backend-git/types"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

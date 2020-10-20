@@ -9,7 +9,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/plumber-cd/terraform-backend-git/server"
+	"github.com/rigrassm/terraform-backend-git/server"
 )
 
 // gitHTTPBackendConfigPath is a path to the backend tf config to generate
